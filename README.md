@@ -121,8 +121,8 @@ The ML linear model (R² = 0.007, p = 0.979) confirmed that physical parameters 
 B.Tech Biotechnology (IV Year)
 University College of Engineering, BIT Campus, Anna University, Tiruchirappalli
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 your.email@example.com
+- 🔗 www.linkedin.com/in/a-ponni-221553321
+- 📧 aponni2004@gmail.com
 
 **External Guide:** Dr. S. Saravanan, Professor, Dept. of Chemical Engineering, NIT Tiruchirappalli  
 **Internal Guide:** Mr. A. Sivakumar Ponnambalam, Dept. of Biotechnology, UCE BIT Campus
